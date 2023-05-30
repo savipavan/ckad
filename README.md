@@ -1,5 +1,4 @@
 ﻿# ckad
- LF-exz6pk5awi
 
 ## Domains & Competencies
 
